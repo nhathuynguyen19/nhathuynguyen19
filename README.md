@@ -1,11 +1,14 @@
-## My social media
-<p>
-    <a href="https://www.instagram.com/_nhathuynguyen_/"><img style="margin-inline: 5px;" src="/assets/img/instagram-logo.png" alt="instagram"></a>
-    <a href="https://www.facebook.com/nhathuynguyenn"><img style="margin-inline: 5px;" src="/assets/img/facebook-logo.png" alt="facebook"></a>
-    <a href="https://www.tiktok.com/@_nhathuynguyen"><img style="margin-inline: 5px;" src="/assets/img/tiktok-logo.png" alt="tiktok"></a>
-    <a href="https://discord.gg/3GhWXn4S"><img style="margin-inline: 5px;" src="/assets/img/discord-logo.png" alt="discord"></a>
-    <a href="https://www.youtube.com/@nhathuy_nguyen"><img style="margin-inline: 5px; width: 45px;" src="/assets/img/youtube-logo.png" alt="youtube"></a>
-    <a href="https://soundcloud.com/sah1909"><img style="margin-inline: 5px; width: 50px;" src="/assets/img/soundcloud-logo.png" alt="soundcloud"></a>
-</p>
+## Hi, I'm Nhat Huy Nguyen
+
+:mailbox: Reach me out!
+
+[![Mail Badge](https://img.shields.io/badge/-@_nhathuynguyen_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_nhathuynguyen_/)
+[![Facebook Badge](https://img.shields.io/badge/-@nhathuynguyenn-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/nhathuynguyenn)](https://www.facebook.com/nhathuynguyenn)
+[![TikTok Badge](https://img.shields.io/badge/-@_nhathuynguyen-000000?style=flat&labelColor=000000&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@_nhathuynguyen)](https://www.tiktok.com/@_nhathuynguyen)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white&link=https://discord.gg/3GhWXn4S)](https://discord.gg/3GhWXn4S)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@nhathuy_nguyen)](https://www.youtube.com/@nhathuy_nguyen)
+[![SoundCloud Badge](https://img.shields.io/badge/SoundCloud-FF5500?style=flat&logo=soundcloud&logoColor=white&link=https://soundcloud.com/sah1909)](https://soundcloud.com/sah1909)
+
+
 
 
