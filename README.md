@@ -8,6 +8,4 @@
     <a href="https://soundcloud.com/sah1909"><img style="margin-inline: 5px; width: 50px;" src="/assets/img/soundcloud-logo.png" alt="soundcloud"></a>
 </p>
 
-![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_81ymEp3t79Gop9G6lcdRg?style=social)
-
 
