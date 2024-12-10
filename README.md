@@ -5,4 +5,3 @@
     <a href="https://www.tiktok.com/@_nhathuynguyen"><img style="margin-inline: 5px;" src="/assets/img/tiktok-logo.png" alt="tiktok"></a>
     <a href="https://discord.gg/3GhWXn4S"><img style="margin-inline: 5px;" src="/assets/img/discord-logo.png" alt="discord"></a>
 </p>
-![GitHub followers](https://img.shields.io/github/followers/nhathuynguyen19?label=Followers&style=social)
