@@ -7,6 +7,5 @@
 </p>
 
 ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_81ymEp3t79Gop9G6lcdRg?style=social)
-![TikTok Followers](https://img.shields.io/tiktok/followers/_nhathuynguyen?style=social)
 
 
