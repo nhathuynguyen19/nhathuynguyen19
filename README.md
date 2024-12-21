@@ -33,11 +33,12 @@
 </table>
 
 <details>
-<summary><h3>📈 Stats</h3></summary>
+<summary><strong>📈 Stats</strong></summary>
 My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhathuynguyen19&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhathuynguyen19&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nhathuynguyen19&theme=dark)
+
 </details>
 
