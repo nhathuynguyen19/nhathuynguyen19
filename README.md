@@ -14,6 +14,7 @@
 <table>
 <tr>
 <th>Bots</th>
+<th>Games</th>
 </tr>
 <td>
   
@@ -21,6 +22,13 @@
 | -- | -- | -- | 
 | [Husc Notifications Discord Bot](https://github.com/nhathuynguyen19/HUSC-Notifications-Discord-Bot.git) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/HUSC-Notifications-Discord-Bot?style=flat-square&labelColor=black) | ![Discord](https://img.shields.io/badge/API-black?style=flat-square&logo=discord) ![Discord](https://img.shields.io/badge/Lunes.host-black?style=flat-square&logo=globe) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) <br> ![Python](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) |
 
+</td>
+<td>
+
+| Title | Stars | Technologies |
+| -- | -- | -- | 
+| [Tetris](https://github.com/nhathuynguyen19/Tetris.git) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/Tetris?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
+  
 </td>
 </tr>
 </table>
