@@ -8,8 +8,6 @@
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white&link=https://discord.gg/3GhWXn4S)](https://discord.gg/3GhWXn4S)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@nhathuy_nguyen)](https://www.youtube.com/@nhathuy_nguyen)
 
-<br>
-
 ### 🖥️ Open-Source Projects
 
 <table>
@@ -28,8 +26,6 @@
   
 </td></tr>
 </table>
-
-<br>
 
 <details>
 <summary><strong>📈 Stats</strong></summary>
