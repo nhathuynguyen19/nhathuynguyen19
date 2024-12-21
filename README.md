@@ -7,6 +7,7 @@
 [![TikTok Badge](https://img.shields.io/badge/-TikTok-000000?style=flat&labelColor=000000&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@_nhathuynguyen)](https://www.tiktok.com/@_nhathuynguyen)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white&link=https://discord.gg/3GhWXn4S)](https://discord.gg/3GhWXn4S)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@nhathuy_nguyen)](https://www.youtube.com/@nhathuy_nguyen)
+<br>
 
 ### 🖥️ Open-Source Projects
 
@@ -31,6 +32,7 @@
 </td>
 </tr>
 </table>
+<br>
 
 <details>
 <summary><strong>📈 Stats</strong></summary>
