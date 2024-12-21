@@ -1,6 +1,6 @@
-## Hi, I'm Nhat Huy Nguyen
+# Hi, I'm Nhat Huy Nguyen
 
-:mailbox: Reach me out!
+### :mailbox: Reach me out!
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-f56161?style=flat&labelColor=f56161&logo=instagram&logoColor=white)](https://www.instagram.com/_nhathuynguyen_/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/nhathuynguyenn)](https://www.facebook.com/nhathuynguyenn)
