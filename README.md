@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Nhat Huy Nguyen</h2>
 
 ### :mailbox: Reach me out!
-<p align="center">
+<p>
 	<a href="https://www.instagram.com/_nhathuynguyen_/"><img src="https://img.shields.io/badge/Instagram-f56161?style=flat&labelColor=f56161&logo=instagram&logoColor=white"></a>
 	<a href="https://www.facebook.com/nhathuynguyenn"><img src="https://img.shields.io/badge/-Facebook-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/nhathuynguyenn"></a>
 	<a href="https://www.tiktok.com/@_nhathuynguyen"><img src="https://img.shields.io/badge/-TikTok-000000?style=flat&labelColor=000000&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@_nhathuynguyen"></a>
