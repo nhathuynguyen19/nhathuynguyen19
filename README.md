@@ -25,7 +25,7 @@
 </p>
 
 ### 🖥️ Open-Source Projects
-<table align="center">
+<table>
 <tr><th>Bots</th><th>Games</th></tr>
 <tr><td>
 
