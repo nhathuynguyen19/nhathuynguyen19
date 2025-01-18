@@ -10,7 +10,6 @@
 </p>
 
 ### 🖥️ Open-Source Projects
-
 <table align="center">
 <tr><th>Bots</th><th>Games</th></tr>
 <tr><td>
