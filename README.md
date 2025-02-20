@@ -26,7 +26,7 @@
 
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th>Bots</th><th>Games</th></tr>
+<tr><th>Bots</th><th>Games</th><th>Apps</th></tr>
 <tr><td>
 
 | Title | Stars | Technologies |
@@ -38,6 +38,12 @@
 | Title | Stars | Technologies |
 | -- | -- | -- | 
 | [Tetris](https://github.com/nhathuynguyen19/Tetris.git) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/Tetris?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
+  
+</td><td>
+
+| Title | Stars | Technologies |
+| -- | -- | -- | 
+| [Mfosync](https://github.com/nhathuynguyen19/Mfosync.git) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/Mfosync?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
   
 </td></tr>
 </table>
