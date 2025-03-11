@@ -46,7 +46,7 @@
 
 | Title | Stars | Technologies |
 | -- | -- | -- | 
-| [Mfosync](https://github.com/nhathuynguyen19/Mfosync.git) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/Mfosync?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
+| [mfosync](https://github.com/nhathuynguyen19/Mfosync.git) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/mfosync?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
   
 </td></tr>
 </table>
