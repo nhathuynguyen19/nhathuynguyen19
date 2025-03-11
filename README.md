@@ -38,7 +38,7 @@
 | Title | Stars | Technologies |
 | -- | -- | -- | 
 | [Tetris](https://github.com/nhathuynguyen19/Tetris.git) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/Tetris?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
-| [Auto-Enable-Port-Minecraft](https://github.com/nhathuynguyen19/Auto-Enable-Port-Minecraft.git) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/Auto-Enable-Port-Minecraft?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) |
+| [minecraft-enable-port-automation](https://github.com/nhathuynguyen19/Auto-Enable-Port-Minecraft.git) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/Auto-Enable-Port-Minecraft?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) |
    
 </td></tr>
 <tr><th>Apps</th></tr>
