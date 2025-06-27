@@ -31,7 +31,7 @@
 
 | Title | Stars | Technologies |
 | -- | -- | -- | 
-| [Husci Bot](https://github.com/nhathuynguyen19/Husci-Bot.git) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/Husci-Bot?style=flat-square&labelColor=black) | ![Discord](https://img.shields.io/badge/API-black?style=flat-square&logo=discord) ![Discord](https://img.shields.io/badge/Lunes.host-black?style=flat-square&logo=globe) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) <br> ![Python](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) |
+| [husci]([https://github.com/nhathuynguyen19/Husci-Bot.git](https://github.com/nhathuynguyen19/husci-2)) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/Husci-Bot?style=flat-square&labelColor=black) | ![Discord](https://img.shields.io/badge/API-black?style=flat-square&logo=discord) ![Discord](https://img.shields.io/badge/Lunes.host-black?style=flat-square&logo=globe) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) <br> ![Python](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) |
 
 </td><td>
 
