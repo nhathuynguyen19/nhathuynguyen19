@@ -31,7 +31,7 @@
 
 | Title | Stars | Technologies |
 | -- | -- | -- | 
-| [Husci](https://github.com/nhathuynguyen19/husci-2) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/Husci-Bot?style=flat-square&labelColor=black) | ![Discord](https://img.shields.io/badge/API-black?style=flat-square&logo=discord) ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) <br> ![Spring Boot](https://img.shields.io/badge/Spring&nbsp;Boot-black?style=flat-square&logo=springboot) ![API](https://img.shields.io/badge/API-black?style=flat-square&logo=cloudflare) <br> ![CI/CD](https://img.shields.io/badge/CI/CD-black?style=flat-square&logo=githubactions) ![Render](https://img.shields.io/badge/Render-black?style=flat-square&logo=render) | 
+| [Husci](https://github.com/nhathuynguyen19/husci-2) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/Husci-Bot?style=flat-square&labelColor=black) | ![Discord](https://img.shields.io/badge/API-black?style=flat-square&logo=discord) ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) <br> ![Spring Boot](https://img.shields.io/badge/Spring&nbsp;Boot-black?style=flat-square&logo=springboot) <br> ![CI/CD](https://img.shields.io/badge/CI/CD-black?style=flat-square&logo=githubactions) ![Render](https://img.shields.io/badge/Render-black?style=flat-square&logo=render) | 
 
 </td><td>
 
