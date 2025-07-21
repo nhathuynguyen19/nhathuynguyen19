@@ -53,8 +53,7 @@
 
 | Title | Stars | Technologies |
 | -- | -- | -- | 
-| [spit-front-end-2025](https://github.com/nhathuynguyen19/spit-front-end-2025) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/spit-front-end-2025?style=flat-square&labelColor=black) | ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)  ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs) <br /> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-| 
+| [spit-front-end-2025](https://github.com/nhathuynguyen19/spit-front-end-2025) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/spit-front-end-2025?style=flat-square&labelColor=black) | ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)  ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs) <br /> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)| 
 
 </td>
 </tr>
