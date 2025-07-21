@@ -31,24 +31,33 @@
 
 | Title | Stars | Technologies |
 | -- | -- | -- | 
-| [Husci](https://github.com/nhathuynguyen19/husci-2) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/Husci-Bot?style=flat-square&labelColor=black) | ![Discord](https://img.shields.io/badge/API-black?style=flat-square&logo=discord) ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) <br> ![Spring Boot](https://img.shields.io/badge/Spring&nbsp;Boot-black?style=flat-square&logo=springboot) <br> ![CI/CD](https://img.shields.io/badge/CI/CD-black?style=flat-square&logo=githubactions) ![Render](https://img.shields.io/badge/Render-black?style=flat-square&logo=render) | 
+| [husci](https://github.com/nhathuynguyen19/husci-2) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/husci-2?style=flat-square&labelColor=black) | ![Discord](https://img.shields.io/badge/API-black?style=flat-square&logo=discord) ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) <br> ![Spring Boot](https://img.shields.io/badge/Spring&nbsp;Boot-black?style=flat-square&logo=springboot) <br> ![CI/CD](https://img.shields.io/badge/CI/CD-black?style=flat-square&logo=githubactions) ![Render](https://img.shields.io/badge/Render-black?style=flat-square&logo=render) | 
 
 </td><td>
 
 | Title | Stars | Technologies |
 | -- | -- | -- | 
-| [Tetris](https://github.com/nhathuynguyen19/Tetris.git) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/Tetris?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
+| [tetriss](https://github.com/nhathuynguyen19/Tetris.git) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/Tetris?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
 | [minecraft-enable-port-automation](https://github.com/nhathuynguyen19/minecraft-enable-port-automation.git) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/minecraft-enable-port-automation?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) |
    
 </td></tr>
-<tr><th>Apps</th></tr>
+<tr><th>Apps</th><th>FE</th></tr>
 <tr><td>
 
 | Title | Stars | Technologies |
 | -- | -- | -- | 
 | [mfosync](https://github.com/nhathuynguyen19/Mfosync.git) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/mfosync?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
   
-</td></tr>
+</td>
+<td>
+
+| Title | Stars | Technologies |
+| -- | -- | -- | 
+| [spit-front-end-2025](https://github.com/nhathuynguyen19/spit-front-end-2025) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/spit-front-end-2025?style=flat-square&labelColor=black) | ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)  ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs) <br /> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+| 
+
+</td>
+</tr>
 </table>
 
 <details>
