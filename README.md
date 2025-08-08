@@ -25,44 +25,107 @@
 </p>
 
 ### 🖥️ Open-Source Projects
+
 <table>
-<tr><th>Bots</th><th>Games</th></tr>
-<tr><td>
-
-| Title | Stars | Technologies |
-| -- | -- | -- | 
-| [husci](https://github.com/nhathuynguyen19/husci-2) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/husci-2?style=flat-square&labelColor=black) | ![Discord](https://img.shields.io/badge/API-black?style=flat-square&logo=discord) ![CI/CD](https://img.shields.io/badge/CI/CD-black?style=flat-square&logo=githubactions) <br> ![Railway](https://img.shields.io/badge/Railway-black?style=flat-square&logo=railway) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb) |
-
-</td><td>
-
-| Title | Stars | Technologies |
-| -- | -- | -- | 
-| [tetriss](https://github.com/nhathuynguyen19/Tetris.git) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/Tetris?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
-| [minecraft-enable-port-automation](https://github.com/nhathuynguyen19/minecraft-enable-port-automation.git) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/minecraft-enable-port-automation?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) |
-   
-</td></tr>
-<tr><th>Apps</th><th>FE</th></tr>
-<tr><td>
-
-| Title | Stars | Technologies |
-| -- | -- | -- | 
-| [mfosync](https://github.com/nhathuynguyen19/Mfosync.git) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/mfosync?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
-  
-</td>
-<td>
-
-| Title | Stars | Technologies |
-| -- | -- | -- | 
-| [spit-front-end-2025](https://github.com/nhathuynguyen19/spit-front-end-2025) | ![Stars](https://img.shields.io/github/stars/nhathuynguyen19/spit-front-end-2025?style=flat-square&labelColor=black) | ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) <br /> ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)| 
-
-</td>
-</tr>
+	<tr>
+		<th>Bots</th>
+		<th>Games</th>
+	</tr>
+	<td>
+		<table>
+			<tr>
+				<th>Title</th>
+				<th>Stars</th>
+				<th>Technologies</th>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/nhathuynguyen19/husci-2">
+						husci
+					</a>
+				</td>
+				<td>
+					<img src="https://img.shields.io/github/stars/nhathuynguyen19/husci-2?style=flat-square&labelColor=black">
+				</td>
+				<td>
+					<img src="https://img.shields.io/badge/API-black?style=flat-square&logo=discord">
+					<img src="https://img.shields.io/badge/CI/CD-black?style=flat-square&logo=githubactions">
+					<br>
+					<img src="https://img.shields.io/badge/Railway-black?style=flat-square&logo=railway">
+					<img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb">
+				</td>
+			</tr>
+		</table>
+	</td>
+	<td>
+		<table>
+			<tr>
+				<th>Title</th>
+				<th>Stars</th>
+				<th>Technologies</th>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/nhathuynguyen19/Tetris.git">
+						tetriss
+					</a>
+				</td>
+				<td>
+					<img src="https://img.shields.io/github/stars/nhathuynguyen19/Tetris?style=flat-square&labelColor=black">
+				</td>
+				<td>
+					<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/nhathuynguyen19/minecraft-enable-port-automation.git">
+						minecraft-enable-port-automation
+					</a>
+				</td>
+				<td>
+					<img src="https://img.shields.io/github/stars/nhathuynguyen19/minecraft-enable-port-automation?style=flat-square&labelColor=black">
+				</td>
+				<td>
+					<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
+					<img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask">
+				</td>
+			</tr>
+		</table>
+	</td>
+	<tr>
+		<th>Front-end</th>
+	</tr>
+	<td>
+		<table>
+			<tr>
+				<th>Title</th>
+				<th>Stars</th>
+				<th>Technologies</th>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/nhathuynguyen19/spit-front-end-2025">
+						spit-front-end-2025
+					</a>
+				</td>
+				<td>
+					<img src="https://img.shields.io/github/stars/nhathuynguyen19/spit-front-end-2025?style=flat-square&labelColor=black">
+				</td>
+				<td>
+					<img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel">
+					<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+					<br>
+					<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white">
+				</td>
+			</tr>
+		</table>
+	</td>
 </table>
 
 <details>
 <summary><strong>📈 Stats</strong></summary>
 <br>
-My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhathuynguyen19&theme=dark)
 <br>
