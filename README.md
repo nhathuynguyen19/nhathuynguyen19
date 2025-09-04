@@ -48,11 +48,16 @@
 					<img src="https://img.shields.io/github/stars/nhathuynguyen19/husci-2?style=flat-square&labelColor=black">
 				</td>
 				<td>
-					<img src="https://img.shields.io/badge/API-black?style=flat-square&logo=discord">
-					<img src="https://img.shields.io/badge/CI/CD-black?style=flat-square&logo=githubactions">
+					<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
+					<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+					<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white">
 					<br>
-					<img src="https://img.shields.io/badge/Railway-black?style=flat-square&logo=railway">
-					<img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb">
+					<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+					<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
+					<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
+					<br>
+					<img src="https://img.shields.io/badge/AIOHTTP-2C5BB4?style=flat-square&logo=aiohttp&logoColor=white">
+					<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 				</td>
 			</tr>
 		</table>
