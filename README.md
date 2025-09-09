@@ -100,6 +100,7 @@
 	</td>
 	<tr>
 		<th>Front-end</th>
+		<th>Tools</th>
 	</tr>
 	<td>
 		<table>
@@ -122,6 +123,28 @@
 					<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
 					<br>
 					<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white">
+				</td>
+			</tr>
+		</table>
+	</td>
+	<td>
+		<table>
+			<tr>
+				<th>Title</th>
+				<th>Stars</th>
+				<th>Technologies</th>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/nhathuynguyen19/husc2cal">
+						husc2cal
+					</a>
+				</td>
+				<td>
+					<img src="https://img.shields.io/github/stars/nhathuynguyen19/husc2cal?style=flat-square&labelColor=black">
+				</td>
+				<td>
+					<img src="https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript">
 				</td>
 			</tr>
 		</table>
