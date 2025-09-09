@@ -82,20 +82,6 @@
 					<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
 				</td>
 			</tr>
-			<tr>
-				<td>
-					<a href="https://github.com/nhathuynguyen19/minecraft-enable-port-automation.git">
-						minecraft-enable-port-automation
-					</a>
-				</td>
-				<td>
-					<img src="https://img.shields.io/github/stars/nhathuynguyen19/minecraft-enable-port-automation?style=flat-square&labelColor=black">
-				</td>
-				<td>
-					<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
-					<img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask">
-				</td>
-			</tr>
 		</table>
 	</td>
 	<tr>
@@ -133,6 +119,20 @@
 				<th>Title</th>
 				<th>Stars</th>
 				<th>Technologies</th>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/nhathuynguyen19/minecraft-enable-port-automation.git">
+						minecraft-enable-port-automation
+					</a>
+				</td>
+				<td>
+					<img src="https://img.shields.io/github/stars/nhathuynguyen19/minecraft-enable-port-automation?style=flat-square&labelColor=black">
+				</td>
+				<td>
+					<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
+					<img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask">
+				</td>
 			</tr>
 			<tr>
 				<td>
