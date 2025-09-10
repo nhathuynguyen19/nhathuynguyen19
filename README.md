@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/nhathuynguyen19">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=18&duration=2000&color=FFFFFF&pause=100&multiline=true&width=500&height=80&lines=Nhat+Huy+Nguyen;Software+Engineering+Student;Bots+%7C+Games+%7CTools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=18&duration=2000&color=FFFFFF&pause=100&multiline=true&width=500&height=80&lines=Nhat+Huy+Nguyen;Software+Engineering+Student;Bots+%7C+Games+%7C+Tools" alt="Typing SVG" />
 </a>
 <br>
 <a href="https://www.instagram.com/_nhathuynguyen_/">
