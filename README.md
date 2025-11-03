@@ -122,6 +122,22 @@
 			</tr>
 			<tr>
 				<td>
+					<a href="https://github.com/nhathuynguyen19/mailnotice">
+						mailnotice
+					</a>
+				</td>
+				<td>
+					<img src="https://img.shields.io/github/stars/nhathuynguyen19/mailnotice?style=flat-square&labelColor=black">
+				</td>
+				<td>
+					<img src="https://img.shields.io/badge/Bash-black?style=flat-square&logo=gnu-bash">
+					<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
+					<br>
+					<img src="https://img.shields.io/badge/IMAP-black?style=flat-square&logo=maildotru">
+				</td>
+			</tr>
+			<tr>
+				<td>
 					<a href="https://github.com/nhathuynguyen19/minecraft-enable-port-automation.git">
 						minecraft-enable-port-automation
 					</a>
