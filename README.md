@@ -85,7 +85,7 @@
 		</table>
 	</td>
 	<tr>
-		<th>Front-end</th>
+		<th>Webs</th>
 		<th>Tools</th>
 	</tr>
 	<td>
@@ -97,18 +97,18 @@
 			</tr>
 			<tr>
 				<td>
-					<a href="https://github.com/nhathuynguyen19/spit-front-end-2025">
-						spit-front-end-2025
+					<a href="https://github.com/nhathuynguyen19/husc-ai-robotics.git">
+						Quản lý event HUSC STEAM AI
 					</a>
 				</td>
 				<td>
-					<img src="https://img.shields.io/github/stars/nhathuynguyen19/spit-front-end-2025?style=flat-square&labelColor=black">
+					<img src="https://img.shields.io/github/stars/nhathuynguyen19/husci-2?style=flat-square&labelColor=black">
 				</td>
 				<td>
-					<img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel">
-					<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-					<br>
-					<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white">
+					<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+					<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+					<img src="https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white">
+					<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 				</td>
 			</tr>
 		</table>
@@ -163,6 +163,39 @@
 					<img src="https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript">
 				</td>
 			</tr>
+		</table>
+	</td>
+	<tr>
+		<th>Front-end</th>
+		<th></th>
+	</tr>
+	<td>
+		<table>
+			<tr>
+				<th>Title</th>
+				<th>Stars</th>
+				<th>Technologies</th>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/nhathuynguyen19/spit-front-end-2025">
+						spit-front-end-2025
+					</a>
+				</td>
+				<td>
+					<img src="https://img.shields.io/github/stars/nhathuynguyen19/spit-front-end-2025?style=flat-square&labelColor=black">
+				</td>
+				<td>
+					<img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel">
+					<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+					<br>
+					<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white">
+				</td>
+			</tr>
+		</table>
+	</td>
+	<td>
+		<table>
 		</table>
 	</td>
 </table>
