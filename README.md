@@ -102,7 +102,7 @@
 					</a>
 				</td>
 				<td>
-					<img src="https://img.shields.io/github/stars/nhathuynguyen19/husci-2?style=flat-square&labelColor=black">
+					<img src="https://img.shields.io/github/stars/nhathuynguyen19/husc-ai-robotics?style=flat-square&labelColor=black">
 				</td>
 				<td>
 					<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
