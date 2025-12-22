@@ -122,6 +122,18 @@
 			</tr>
 			<tr>
 				<td>
+					<a href="https://github.com/nhathuynguyen19/husc-dktc-tool">
+						husc-dktc-tool
+					</a>
+				</td>
+				<td>
+					<img src="https://img.shields.io/github/stars/nhathuynguyen19/husc-dktc-tool?style=flat-square&labelColor=black">
+				</td>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td>
 					<a href="https://github.com/nhathuynguyen19/mailnotice">
 						mailnotice
 					</a>
